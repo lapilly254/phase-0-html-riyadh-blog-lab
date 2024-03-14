@@ -58,7 +58,6 @@ LINK 1
 
 `Lonely Planet`
 `http://www.lonelyplanet.com/saudi-arabia/riyadh`
-
 LINK 2
 
 `Wikipedia`

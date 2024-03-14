@@ -6,11 +6,10 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-size: medium;
+  background-color: blue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
 }
 
 .wrapper {
@@ -32,6 +31,7 @@ h1, h2 {
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+  color: black;
 }
 
 h2 {
@@ -40,15 +40,27 @@ h2 {
 }
 
 h3 {
+  color: brown;
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
 
+h4 {
+  color: palevioletred;
+}
+
 img {
-  max-width: 100%;
-  width: 100%;
-  height: auto;
+  width: 300px;
+  height: 250px;
+}
+
+button {
+  background-color: brown;
+}
+
+button:hover {
+  background-color: springgreen;
 }
 
 p {
